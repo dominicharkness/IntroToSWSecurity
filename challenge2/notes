@@ -1,0 +1,5 @@
+prog1 = signal.c
+    prints prime n prime numbers
+
+prog3 = file.c
+    
